@@ -93,10 +93,6 @@ Before running this project, ensure you have the following:
 - Ensure that the necessary libraries are correctly installed on your Pico.
 - You can modify the string to type by changing the `name` variable in the code.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to Adafruit for providing the HID library and documentation that made this project possible.
